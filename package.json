@@ -1,0 +1,16 @@
+{
+  "name": "cli-generating-lorem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.15.0",
+    "commander": "^10.0.0",
+    "faker": "^5.5.3"
+  }
+}
